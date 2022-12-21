@@ -75,7 +75,7 @@ Exemplo de resultado:
 
 - ``Java Script``
 - ``NodeJS``
-- ``Postaman``
+- ``Postman``
 - ``VSCode``
 
 
