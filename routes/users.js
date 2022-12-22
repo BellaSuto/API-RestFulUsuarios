@@ -1,4 +1,4 @@
-const { body, validationResult } = require('express-validator');
+//const { body, validationResult } = require('express-validator');
 let NeDB = require('nedb');
 let db = new NeDB({
     filename: 'users.db',
