@@ -1,6 +1,6 @@
 ## RESTful API de Usuários
 #
-### 📌CRUD bem simples desenvolvido em  NodeJS
+### 📌CRUD bem simples desenvolvido em  NodeJS utilizando NeDB
 #
 
 
